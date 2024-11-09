@@ -1,7 +1,7 @@
 
 # Bloco de Notas em C# com Interface Gráfica
 
-- C# .NET Framework
+- C# .NET Core
 - Windows Forms
 - Manipulação de arquivos de texto (`.txt`)
 
