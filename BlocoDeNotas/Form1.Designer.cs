@@ -60,21 +60,21 @@
             // novoToolStripMenuItem
             // 
             novoToolStripMenuItem.Name = "novoToolStripMenuItem";
-            novoToolStripMenuItem.Size = new Size(176, 26);
+            novoToolStripMenuItem.Size = new Size(224, 26);
             novoToolStripMenuItem.Text = "Novo";
             novoToolStripMenuItem.Click += novoToolStripMenuItem_Click;
             // 
             // abrirToolStripMenuItem
             // 
             abrirToolStripMenuItem.Name = "abrirToolStripMenuItem";
-            abrirToolStripMenuItem.Size = new Size(176, 26);
+            abrirToolStripMenuItem.Size = new Size(224, 26);
             abrirToolStripMenuItem.Text = "Abrir";
             abrirToolStripMenuItem.Click += abrirToolStripMenuItem_Click;
             // 
             // salvarComoToolStripMenuItem
             // 
             salvarComoToolStripMenuItem.Name = "salvarComoToolStripMenuItem";
-            salvarComoToolStripMenuItem.Size = new Size(176, 26);
+            salvarComoToolStripMenuItem.Size = new Size(224, 26);
             salvarComoToolStripMenuItem.Text = "Salvar Como";
             salvarComoToolStripMenuItem.Click += salvarComoToolStripMenuItem_Click;
             // 
@@ -102,6 +102,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             Name = "BlocoDeNotas";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Bloco de Notas";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
