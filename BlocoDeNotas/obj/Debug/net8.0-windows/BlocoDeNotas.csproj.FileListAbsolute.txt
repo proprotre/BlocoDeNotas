@@ -1,0 +1,16 @@
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\net8.0-windows\BlocoDeNotas.exe
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\net8.0-windows\BlocoDeNotas.deps.json
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\net8.0-windows\BlocoDeNotas.runtimeconfig.json
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\net8.0-windows\BlocoDeNotas.dll
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\net8.0-windows\BlocoDeNotas.pdb
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.BlocoDeNotas.resources
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.AssemblyInfoInputs.cache
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.AssemblyInfo.cs
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.dll
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\refint\BlocoDeNotas.dll
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.pdb
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.genruntimeconfig.cache
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\ref\BlocoDeNotas.dll

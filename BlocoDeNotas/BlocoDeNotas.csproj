@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>notas.ico</ApplicationIcon>
+    <Version>1.2024.11.1</Version>
+    <Copyright>Copyright © Gabriel Badaró 2024</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="notas.ico" />
+  </ItemGroup>
+
+</Project>
