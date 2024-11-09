@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © Gabriel Badaró 2024")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.2024.11.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2024.11.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2024.11.1+74787a6ec601fb39e9a39a57a52484fa9359a4e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlocoDeNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlocoDeNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.2024.11.1")]

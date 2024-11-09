@@ -14,3 +14,4 @@ C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\
 C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.pdb
 C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.genruntimeconfig.cache
 C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\ref\BlocoDeNotas.dll
+C:\Users\Badaro\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\net8.0-windows\BlocoDeNotas.sourcelink.json
